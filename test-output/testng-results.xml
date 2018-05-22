@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20844" started-at="2018-05-22T03:18:54Z" finished-at="2018-05-22T03:19:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20844" started-at="2018-05-22T03:18:54Z" finished-at="2018-05-22T03:19:15Z">
+      <class name="com.plivo.qa.testcases.CouponCodeTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.plivo.qa.testcases.CouponCodeTest@5f341870]" name="setUp" is-config="true" duration-ms="9422" started-at="2018-05-22T08:48:54Z" finished-at="2018-05-22T08:49:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateCouponCodeTest()[pri:1, instance:com.plivo.qa.testcases.CouponCodeTest@5f341870]" name="validateCouponCodeTest" duration-ms="11251" started-at="2018-05-22T08:49:04Z" finished-at="2018-05-22T08:49:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCouponCodeTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.plivo.qa.testcases.CouponCodeTest@5f341870]" name="tearDown" is-config="true" duration-ms="133" started-at="2018-05-22T08:49:15Z" finished-at="2018-05-22T08:49:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.plivo.qa.testcases.CouponCodeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
